@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Prueba1</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="venta">Venta</string>
+    <string name="costo">Costo</string>
+    <string name="stock">Stock</string>
+    <string name="fecha_compra">Fecha Compra</string>
+    <string name="ubicacion">Ubicacion</string>
+    <string name="descripcion">Descripcion</string>
+    <string name="codigo">Código</string>
+    <string name="producto">Producto</string>
+
+    <string name="error_empty_code">Ingrese Código</string>
+    <string name="error_empty_description">Ingrese Descripción</string>
+    <string name="error_empty_ubication">Ingrese Ubicación</string>
+    <string name="error_empty_date_purchase">Ingrese Fecha de Compra</string>
+    <string name="error_empty_stock">Ingrese Stock</string>
+    <string name="error_empty_cost">Ingrese Costo</string>
+    <string name="error_empty_sale">Ingrese Venta</string>
+    
+    <string name="success_validation">Registrado</string>
+</resources>
